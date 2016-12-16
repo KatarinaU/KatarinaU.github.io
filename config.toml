@@ -1,0 +1,18 @@
+
+baseurl = "http://KatarinaU.github.io"
+name = "HR Things | For the RT Team."
+title = "HR Things | For the RT Team."
+description = "Happy at work"
+languageCode = "en-us"
+theme = "Lunacy"
+license = "MIT"
+homepage = "https://KatarinaU.github.io"
+tags = ["minimal", "clean", "neat", "black white", "blog"]
+features = ["blog"]
+min_version = 0.14
+blog = "true"
+
+[params]
+subtitle = "Strong folk of RT"
+[author]
+    name = "Katarina Ugrinic"
