@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog-rsses on HR Things | For the RT Team.</title>
+    <link>http://KatarinaU.github.io/blog/index.xml</link>
+    <description>Recent content in Blog-rsses on HR Things | For the RT Team.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://KatarinaU.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Happy at work</title>
+      <link>http://katarinau.github.io/blog/posts/test/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://katarinau.github.io/blog/posts/test/</guid>
+      <description>&lt;p&gt;Hi, welcome to our HR site, created just for the fun at our Hackathon by Katarina, Milica and Filip.&lt;/p&gt;
+
+&lt;p&gt;Your &lt;em&gt;happiness&lt;/em&gt; is our happiness and we would love if you can fill out &lt;a href=&#34;https://goo.gl/forms/CnHgLRRG6104dbub2&#34;&gt;this questionnaire&lt;/a&gt; to find out how are you doing :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/Geekstone/events/235592917/&#34;&gt;Interesting things happening in town relating to HR and personal growth and development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1vIPXPoJIfYbi0H9DkuiAGWXniMCp7jjEH6hIQap_9XM/edit#slide=id.g1a1cfce5c7_0_239&#34;&gt;Useful books for self development and personal growth&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
